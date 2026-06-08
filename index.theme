@@ -1,0 +1,9 @@
+[Sound Theme]
+Name=WindowsXP
+Comment=Windows XP theme by Wonordel
+Inherits=Ocean
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
+Directory=stereo
